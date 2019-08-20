@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #212121;
+    color: #fff;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    background: #414141;
+    padding: 1em;
+    box-shadow: 1px 1px rgba(255, 255, 255, 0.5);
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+li span{
+    display: block;
+    font-weight: normal;
+    font-size: .8em;
+}
